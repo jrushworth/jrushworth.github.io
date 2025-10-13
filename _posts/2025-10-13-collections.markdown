@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Collections"
-date:   2025-10-13 22:07:01 +1200
+date:   2025-10-13 10:07:01 +1200
 tags: 
 categories: motifs
 ---
