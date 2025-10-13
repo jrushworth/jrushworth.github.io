@@ -4,6 +4,8 @@ title:  "Welcome to Jekyll!"
 date:   2025-08-07 21:03:48 +1200
 categories: jekyll
 ---
+See [Jekyll Related Posts](https://medium.com/@jsware/jekyll-related-posts-f2bc1f420b5e) for an example of how it could be formated. The actual site is [here](https://www.jsware.io/)
+
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
 Jekyll requires blog post files to be named according to the following format:
