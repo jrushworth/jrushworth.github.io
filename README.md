@@ -22,24 +22,26 @@
 
 3. Build manually:
 
+   ```bash
     bundle exec jekyll build
+   ```
 
 ## GitHub Pages
 
-    The main branch contains the source files.
+The main branch contains the source files.
 
-    _site/ is ignored. GitHub automatically builds the site.
+_site/ is ignored. GitHub automatically builds the site.
 
-    Published at: https://jrushworth.github.io
+Published at: https://jrushworth.github.io
 
 ## Useful Commands
 
-    Check status: git status
+Check status: git status
 
-    Add changes: git add .
+Add changes: git add .
 
-    Commit changes: git commit -m "Message"
+Commit changes: git commit -m "Message"
 
-    Push to GitHub: git push origin main
+Push to GitHub: git push origin main
 
-    Pull updates from remote: git pull origin main --allow-unrelated-histories
+Pull updates from remote: git pull origin main --allow-unrelated-histories
