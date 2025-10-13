@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "But why?"
+date:   2025-08-08 00:17:48 +1200
+tags: 
+categories: memes
+---
+![Venn diagram of my life](/assets/images/memes/venn-diagram-of-my-life.jpg)
