@@ -14,7 +14,7 @@ Then there was "Omni" magazine and others. "Rolling Stone", "Kiwi Rider", etc.
 
 All the Louis L'Amour westerns (after Jean or sombody bought me "Mojave Crossing" for a birthday or xmas present.)
 
-And all the "Edge" series. Which, funnily enough, Jack read. He might have been recovering from something, not sure. I was so surprised. Really felt that they weren't his thing.
+![Awahuri](/assets/images/books/the-loner.jpg){:width="250px"}{:style="float:right"}And all the "Edge" series, marketed as "The Most Violent Westerns in Print." Which, funnily enough, Jack read. He might have been recovering from something, not sure. I was so surprised. Really felt that they weren't his thing.
 
 Then there was the window sill of drink cans in the 'sun porch' room. Was that before it was enlarged? I sort of remember those cans being stacked against the louver windows.
 
