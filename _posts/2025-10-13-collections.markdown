@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Collections"
-date:   2025-09-01 22:07:01 +1200
+date:   2025-10-13 22:07:01 +1200
 tags: 
 categories: motifs
 ---
@@ -20,7 +20,7 @@ Then there was the window sill of drink cans in the 'sun porch' room. Was that b
 
 I sort of seemed to collect motorbikes for a while. And motorbike magazines.
 
-And I have a huge collection of paper from events that I've been to.
+And I have a huge collection of paper from events that I've been to. Going back 30 years!
 
 And all those old listeners. And the plastic models that have never been made up.
 
