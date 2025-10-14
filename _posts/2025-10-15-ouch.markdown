@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Ouch!"
-date:   2025-10-15 10:03:01 +1200
+date:   2025-10-15 10:03:01 +1300
 tags: 
 categories: motifs
 ---
